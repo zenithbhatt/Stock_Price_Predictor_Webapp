@@ -4,3 +4,4 @@ plotly>=4.14.3
 pandas>=1.2.3
 datetime>=5.2
 tensorflow>=2.13.0
+pandas-datareader>=0.10.0
