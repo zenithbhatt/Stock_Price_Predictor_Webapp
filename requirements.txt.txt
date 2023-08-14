@@ -1,0 +1,6 @@
+matplotlib>=3.3.4
+numpy>=1.20.3
+plotly>=4.14.3
+pandas>=1.2.3
+datetime>=5.2
+tensorflow>=2.13.0
